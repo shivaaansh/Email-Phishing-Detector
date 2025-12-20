@@ -1,6 +1,6 @@
 # Phishing Email Detector with Automated Quarantine and Alert System
 
-This project is an automated tool for detecting, quarantining, and alerting about suspicious phishing emails. It integrates with the VirusTotal API to scan URLs found in emails, flags potential phishing threats, quarantines them, and notifies the security team.
+This project is an automated tool for detecting, quarantining, and alerting about suspicious phishing emails. It integrates with the VirusTotal API to scan URLs found in emails, flags potential phishing threats, quarantines them, and notifies the security team and management.
 
 ---
 
